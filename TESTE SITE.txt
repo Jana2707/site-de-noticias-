@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site de Notícias</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Site de Notícias</h1>
+            <nav>
+                <ul>
+                    <li><a href="#comportamento">Comportamento</a></li>
+                    <li><a href="#beleza">Beleza</a></li>
+                    <li><a href="#famosos">Notícia dos Famosos</a></li>
+                    <li><a href="#moda">Moda</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    
+    <main>
+        <section id="comportamento">
+            <h2>Comportamento</h2>
+            <article>
+                <h3>Título da Notícia 1</h3>
+                <p>Conteúdo da notícia sobre comportamento...</p>
+            </article>
+            <article>
+                <h3>Título da Notícia 2</h3>
+                <p>Conteúdo da notícia sobre comportamento...</p>
+            </article>
+        </section>
+        
+        <section id="beleza">
+            <h2>Beleza</h2>
+            <article>
+                <h3>Título da Notícia 1</h3>
+                <p>Conteúdo da notícia sobre beleza...</p>
+            </article>
+            <article>
+                <h3>Título da Notícia 2</h3>
+                <p>Conteúdo da notícia sobre beleza...</p>
+            </article>
+        </section>
+        
+        <section id="famosos">
+            <h2>Notícia dos Famosos</h2>
+            <article>
+                <h3>Título da Notícia 1</h3>
+                <p>Conteúdo da notícia sobre famosos...</p>
+            </article>
+            <article>
+                <h3>Título da Notícia 2</h3>
+                <p>Conteúdo da notícia sobre famosos...</p>
+            </article>
+        </section>
+        
+        <section id="moda">
+            <h2>Moda</h2>
+            <article>
+                <h3>Título da Notícia 1</h3>
+                <p>Conteúdo da notícia sobre moda...</p>
+            </article>
+            <article>
+                <h3>Título da Notícia 2</h3>
+                <p>Conteúdo da notícia sobre moda...</p>
+            </article>
+        </section>
+    </main>
+    
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Site de Notícias. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
